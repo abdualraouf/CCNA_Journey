@@ -1,0 +1,14 @@
+# User personal labs & working files
+MYLabs/
+mylabs/
+MyLabs/
+
+# Local agent workspace configs
+.agents/
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
